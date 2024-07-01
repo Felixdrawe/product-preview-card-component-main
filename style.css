@@ -60,10 +60,10 @@ h6 {
 #__next {
   isolation: isolate;
 }
-
+/* 
 * {
   outline: 0.1px solid red;
-}
+} */
 
 :root {
   --clr-primary-600: hsl(158, 36%, 37%);
